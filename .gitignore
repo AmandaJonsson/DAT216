@@ -4,3 +4,6 @@
 *.jar
 *.war
 *.ear
+
+#CAUSE MAC SUX
+*.DS_Store
